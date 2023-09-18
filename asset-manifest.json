@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/love-date/static/css/main.073c9b0a.css",
+    "main.js": "/love-date/static/js/main.f007fdad.js",
+    "static/js/787.eb4e756d.chunk.js": "/love-date/static/js/787.eb4e756d.chunk.js",
+    "static/media/logo.svg": "/love-date/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/love-date/index.html",
+    "main.073c9b0a.css.map": "/love-date/static/css/main.073c9b0a.css.map",
+    "main.f007fdad.js.map": "/love-date/static/js/main.f007fdad.js.map",
+    "787.eb4e756d.chunk.js.map": "/love-date/static/js/787.eb4e756d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f007fdad.js"
+  ]
+}
